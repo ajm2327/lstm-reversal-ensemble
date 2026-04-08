@@ -1,0 +1,25 @@
+# requirements.in
+alpaca-py
+python-dotenv
+numpy
+pandas
+scikit-learn
+tensorflow-cpu
+joblib
+requests
+beautifulsoup4
+pytz
+psycopg2-binary
+pandas_market_calendars
+schedule
+pytest
+fastapi
+uvicorn
+sqlalchemy
+alembic
+plotly
+optuna
+redis
+stripe
+python-jose
+passlib
