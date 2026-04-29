@@ -1,7 +1,7 @@
 from alpaca_clients import data_client
 from alpaca.data.requests import StockBarsRequest, StockLatestQuoteRequest
 from alpaca.trading.requests import GetAssetsRequest
-from alpaca.data.timeframe import TimeFrame, TImeFrameUnit
+from alpaca.data.timeframe import TimeFrame, TimeFrameUnit
 import pandas as pd
 import numpy as np
 from datetime import datetime, timedelta
